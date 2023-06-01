@@ -1,6 +1,15 @@
 # Pizza-Shop-MERN-App
 This is a mern stack project of pizza shop app. Developed using mern tech-stack.
 
+## Technologies used:
+
+- React js
+- Node js
+- Express js
+- MongoDb
+- Redux
+- and More
+
 ## Pics of Application: 
 
 ![Screenshot (9)](https://github.com/Gaurav1129/pizza-app/assets/121231831/077e5ebd-c699-4dd6-b106-8e8473983f16)
